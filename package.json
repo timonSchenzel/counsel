@@ -37,7 +37,7 @@
         "cli-highlight": "^2.1.4",
         "cli-truncate": "^1.1.0",
         "code-excerpt": "^2.1.1",
-        "codecov": "^3.6.5",
+        "codecov": "^3.7.1",
         "concordance": "^3.0.0",
         "cryptiles": ">=4.1.2",
         "css-loader": "^1.0.1",
